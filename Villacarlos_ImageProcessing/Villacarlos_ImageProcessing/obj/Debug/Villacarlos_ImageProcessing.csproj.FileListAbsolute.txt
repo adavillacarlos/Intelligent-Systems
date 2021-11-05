@@ -1,0 +1,9 @@
+C:\Users\adavi\source\repos\Villacarlos_ImageProcessing\Villacarlos_ImageProcessing\bin\Debug\Villacarlos_ImageProcessing.exe
+C:\Users\adavi\source\repos\Villacarlos_ImageProcessing\Villacarlos_ImageProcessing\bin\Debug\Villacarlos_ImageProcessing.pdb
+C:\Users\adavi\source\repos\Villacarlos_ImageProcessing\Villacarlos_ImageProcessing\obj\Debug\Villacarlos_ImageProcessing.csproj.AssemblyReference.cache
+C:\Users\adavi\source\repos\Villacarlos_ImageProcessing\Villacarlos_ImageProcessing\obj\Debug\Villacarlos_ImageProcessing.Form1.resources
+C:\Users\adavi\source\repos\Villacarlos_ImageProcessing\Villacarlos_ImageProcessing\obj\Debug\Villacarlos_ImageProcessing.Properties.Resources.resources
+C:\Users\adavi\source\repos\Villacarlos_ImageProcessing\Villacarlos_ImageProcessing\obj\Debug\Villacarlos_ImageProcessing.csproj.GenerateResource.cache
+C:\Users\adavi\source\repos\Villacarlos_ImageProcessing\Villacarlos_ImageProcessing\obj\Debug\Villacarlos_ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\Villacarlos_ImageProcessing\Villacarlos_ImageProcessing\obj\Debug\Villacarlos_ImageProcessing.exe
+C:\Users\adavi\source\repos\Villacarlos_ImageProcessing\Villacarlos_ImageProcessing\obj\Debug\Villacarlos_ImageProcessing.pdb
