@@ -1,0 +1,9 @@
+C:\Users\adavi\source\repos\VillacarlosActivity1\VillacarlosActivity1\bin\Debug\VillacarlosActivity1.exe
+C:\Users\adavi\source\repos\VillacarlosActivity1\VillacarlosActivity1\bin\Debug\VillacarlosActivity1.pdb
+C:\Users\adavi\source\repos\VillacarlosActivity1\VillacarlosActivity1\obj\Debug\VillacarlosActivity1.csproj.AssemblyReference.cache
+C:\Users\adavi\source\repos\VillacarlosActivity1\VillacarlosActivity1\obj\Debug\VillacarlosActivity1.Form1.resources
+C:\Users\adavi\source\repos\VillacarlosActivity1\VillacarlosActivity1\obj\Debug\VillacarlosActivity1.Properties.Resources.resources
+C:\Users\adavi\source\repos\VillacarlosActivity1\VillacarlosActivity1\obj\Debug\VillacarlosActivity1.csproj.GenerateResource.cache
+C:\Users\adavi\source\repos\VillacarlosActivity1\VillacarlosActivity1\obj\Debug\VillacarlosActivity1.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\VillacarlosActivity1\VillacarlosActivity1\obj\Debug\VillacarlosActivity1.exe
+C:\Users\adavi\source\repos\VillacarlosActivity1\VillacarlosActivity1\obj\Debug\VillacarlosActivity1.pdb
