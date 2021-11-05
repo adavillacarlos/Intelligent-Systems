@@ -1,0 +1,9 @@
+C:\Users\adavi\source\repos\Villacarlos_QuizIP\Villacarlos_QuizIP\bin\Debug\Villacarlos_QuizIP.exe
+C:\Users\adavi\source\repos\Villacarlos_QuizIP\Villacarlos_QuizIP\bin\Debug\Villacarlos_QuizIP.pdb
+C:\Users\adavi\source\repos\Villacarlos_QuizIP\Villacarlos_QuizIP\obj\Debug\Villacarlos_QuizIP.csproj.AssemblyReference.cache
+C:\Users\adavi\source\repos\Villacarlos_QuizIP\Villacarlos_QuizIP\obj\Debug\Villacarlos_QuizIP.Form1.resources
+C:\Users\adavi\source\repos\Villacarlos_QuizIP\Villacarlos_QuizIP\obj\Debug\Villacarlos_QuizIP.Properties.Resources.resources
+C:\Users\adavi\source\repos\Villacarlos_QuizIP\Villacarlos_QuizIP\obj\Debug\Villacarlos_QuizIP.csproj.GenerateResource.cache
+C:\Users\adavi\source\repos\Villacarlos_QuizIP\Villacarlos_QuizIP\obj\Debug\Villacarlos_QuizIP.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\Villacarlos_QuizIP\Villacarlos_QuizIP\obj\Debug\Villacarlos_QuizIP.exe
+C:\Users\adavi\source\repos\Villacarlos_QuizIP\Villacarlos_QuizIP\obj\Debug\Villacarlos_QuizIP.pdb
