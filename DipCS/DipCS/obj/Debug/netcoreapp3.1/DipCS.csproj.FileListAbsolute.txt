@@ -1,0 +1,15 @@
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Debug\netcoreapp3.1\DipCS.exe
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Debug\netcoreapp3.1\DipCS.deps.json
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Debug\netcoreapp3.1\DipCS.runtimeconfig.json
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Debug\netcoreapp3.1\DipCS.runtimeconfig.dev.json
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Debug\netcoreapp3.1\DipCS.dll
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Debug\netcoreapp3.1\DipCS.pdb
+C:\Users\adavi\source\repos\DipCS\DipCS\obj\Debug\netcoreapp3.1\DipCS.Form1.resources
+C:\Users\adavi\source\repos\DipCS\DipCS\obj\Debug\netcoreapp3.1\DipCS.csproj.GenerateResource.cache
+C:\Users\adavi\source\repos\DipCS\DipCS\obj\Debug\netcoreapp3.1\DipCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adavi\source\repos\DipCS\DipCS\obj\Debug\netcoreapp3.1\DipCS.AssemblyInfoInputs.cache
+C:\Users\adavi\source\repos\DipCS\DipCS\obj\Debug\netcoreapp3.1\DipCS.AssemblyInfo.cs
+C:\Users\adavi\source\repos\DipCS\DipCS\obj\Debug\netcoreapp3.1\DipCS.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\DipCS\DipCS\obj\Debug\netcoreapp3.1\DipCS.dll
+C:\Users\adavi\source\repos\DipCS\DipCS\obj\Debug\netcoreapp3.1\DipCS.pdb
+C:\Users\adavi\source\repos\DipCS\DipCS\obj\Debug\netcoreapp3.1\DipCS.genruntimeconfig.cache

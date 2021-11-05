@@ -1,0 +1,5 @@
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Release\netcoreapp3.1\publish\DipCS.exe
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Release\netcoreapp3.1\publish\DipCS.dll
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Release\netcoreapp3.1\publish\DipCS.deps.json
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Release\netcoreapp3.1\publish\DipCS.runtimeconfig.json
+C:\Users\adavi\source\repos\DipCS\DipCS\bin\Release\netcoreapp3.1\publish\DipCS.pdb
