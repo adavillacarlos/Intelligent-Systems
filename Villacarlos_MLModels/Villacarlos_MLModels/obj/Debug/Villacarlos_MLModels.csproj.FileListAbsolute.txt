@@ -1,0 +1,9 @@
+C:\Users\adavi\source\repos\Villacarlos_MLModels\Villacarlos_MLModels\obj\Debug\Villacarlos_MLModels.csproj.AssemblyReference.cache
+C:\Users\adavi\source\repos\Villacarlos_MLModels\Villacarlos_MLModels\obj\Debug\Villacarlos_MLModels.Form1.resources
+C:\Users\adavi\source\repos\Villacarlos_MLModels\Villacarlos_MLModels\obj\Debug\Villacarlos_MLModels.Properties.Resources.resources
+C:\Users\adavi\source\repos\Villacarlos_MLModels\Villacarlos_MLModels\obj\Debug\Villacarlos_MLModels.csproj.GenerateResource.cache
+C:\Users\adavi\source\repos\Villacarlos_MLModels\Villacarlos_MLModels\obj\Debug\Villacarlos_MLModels.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\Villacarlos_MLModels\Villacarlos_MLModels\bin\Debug\Villacarlos_MLModels.exe
+C:\Users\adavi\source\repos\Villacarlos_MLModels\Villacarlos_MLModels\bin\Debug\Villacarlos_MLModels.pdb
+C:\Users\adavi\source\repos\Villacarlos_MLModels\Villacarlos_MLModels\obj\Debug\Villacarlos_MLModels.exe
+C:\Users\adavi\source\repos\Villacarlos_MLModels\Villacarlos_MLModels\obj\Debug\Villacarlos_MLModels.pdb
