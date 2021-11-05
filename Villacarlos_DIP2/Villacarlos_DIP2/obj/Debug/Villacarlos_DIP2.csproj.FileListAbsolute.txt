@@ -1,0 +1,9 @@
+C:\Users\adavi\source\repos\Villacarlos_DIP2\Villacarlos_DIP2\bin\Debug\Villacarlos_DIP2.exe
+C:\Users\adavi\source\repos\Villacarlos_DIP2\Villacarlos_DIP2\bin\Debug\Villacarlos_DIP2.pdb
+C:\Users\adavi\source\repos\Villacarlos_DIP2\Villacarlos_DIP2\obj\Debug\Villacarlos_DIP2.csproj.AssemblyReference.cache
+C:\Users\adavi\source\repos\Villacarlos_DIP2\Villacarlos_DIP2\obj\Debug\Villacarlos_DIP2.Form1.resources
+C:\Users\adavi\source\repos\Villacarlos_DIP2\Villacarlos_DIP2\obj\Debug\Villacarlos_DIP2.Properties.Resources.resources
+C:\Users\adavi\source\repos\Villacarlos_DIP2\Villacarlos_DIP2\obj\Debug\Villacarlos_DIP2.csproj.GenerateResource.cache
+C:\Users\adavi\source\repos\Villacarlos_DIP2\Villacarlos_DIP2\obj\Debug\Villacarlos_DIP2.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\Villacarlos_DIP2\Villacarlos_DIP2\obj\Debug\Villacarlos_DIP2.exe
+C:\Users\adavi\source\repos\Villacarlos_DIP2\Villacarlos_DIP2\obj\Debug\Villacarlos_DIP2.pdb
